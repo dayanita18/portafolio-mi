@@ -1,0 +1,136 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Arial', sans-serif;
+    line-height: 1,9;
+    background-image:url(img/almond-blossom.jpg);
+    color: #333;
+}
+
+header {
+    background-color: #333;
+    color: white;
+    padding: 10px;
+    text-align: center;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin: 0 15px;
+}
+
+nav ul li a {
+    color: white;
+    text-decoration: none;
+}
+
+.section {
+    padding: 50px;
+    text-align: center;
+    
+}
+
+.foto-perfil {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    margin-bottom: 20px;
+}
+
+form {
+    max-width: 400px;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+input, textarea {
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+button {
+    padding: 10px;
+    background-color: #333;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #555;
+}
+
+.sociales {
+    list-style: none;
+    padding: 0;
+}
+
+.sociales li {
+    display: inline;
+    margin: 0 10px;
+}
+
+footer {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+
+.mi-mi{
+    background-color: rgb(117, 182, 202);
+}
+
+.deporte{
+    background-color: rgb(117, 182, 202);
+}
+
+.music{
+    background-color:rgb(117, 182, 202);
+}
+
+.depor{
+    background-color:rgb(117, 182, 202);
+}
+
+.inter{
+    background-color:rgb(117, 182, 202);
+
+}
+
+.habi{
+    background-color:rgb(117, 182, 202);
+}
+
+.domino{
+    background-color:rgb(117, 182, 202);
+}
+.fav{
+    background-color:rgb(117, 182, 202);
+}
+
+.ciones{
+    background-color:rgb(117, 182, 202);
+}
+
+.futura{
+    background-color:rgb(117, 182, 202);
+    
+}
+
+.dem{
+    
+}
